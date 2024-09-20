@@ -4,8 +4,7 @@
  * Plugin URI: http://tusitio.com/pluginia
  * Description: Un plugin que muestra contenido sólo para usuarios autenticados y permite chatear con documentos PDF utilizando ChatPDF.
  * Version: 1.3
- * Author: Tu Nombre
- * Author URI: http://tusitio.com
+ * Author: Víctor Méndez
  */
 
 if (!defined('ABSPATH')) {
